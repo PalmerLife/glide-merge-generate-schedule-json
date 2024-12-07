@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Merge JSON",
+    "description": "Merges input JSON into the starting JSON and returns the compacted result as a string.",
+    "author": "Your Name <your.email@example.com>",
+    "params": [
+      {
+        "name": "inputJSON",
+        "displayName": "Input JSON String",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
